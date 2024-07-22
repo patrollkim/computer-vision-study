@@ -1,1 +1,1 @@
-# computer-vision-study
+# 컴퓨터 비전 관련 정보 및 스터디 내용 정리
